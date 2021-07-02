@@ -21,7 +21,7 @@ namespace LogicalProgramming
                     PrimeNumbercs.ReadInput();
                     break;
                 case 4:
-                    
+                    ReverseNumber.ReadInput();
                     break;
                 case 5:
                     

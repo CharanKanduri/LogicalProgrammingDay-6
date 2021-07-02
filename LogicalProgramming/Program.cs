@@ -34,7 +34,7 @@ namespace LogicalProgramming
                     FewestNotes.ReadInput();
                     break;
                 case 8:
-
+                    DayOfWeek.ReadInput();
                     break;
                 case 9:
 

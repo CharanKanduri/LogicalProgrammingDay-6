@@ -31,7 +31,7 @@ namespace LogicalProgramming
                     Timer.StopWatch();
                     break;
                 case 7:
-
+                    FewestNotes.ReadInput();
                     break;
                 case 8:
 

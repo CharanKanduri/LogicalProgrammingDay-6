@@ -24,7 +24,8 @@ namespace LogicalProgramming
                     ReverseNumber.ReadInput();
                     break;
                 case 5:
-                    
+                    CouponNumbers.CouponGeneration();
+
                     break;
                 case 6:
 

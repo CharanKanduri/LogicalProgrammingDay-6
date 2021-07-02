@@ -18,7 +18,7 @@ namespace LogicalProgramming
                     PerfectNumber.ReadInput();
                     break;
                 case 3:
-                    
+                    PrimeNumbercs.ReadInput();
                     break;
                 case 4:
                     

@@ -43,10 +43,10 @@ namespace LogicalProgramming
                     MonthlyPayment.ReadInput();
                     break;
                 case 11:
-                    
+                    NewtonMethod.ReadInput();
                     break;
                 case 12:
-
+                    DecimalToBinary.ReadInput();
                     break;
                 case 13:
 

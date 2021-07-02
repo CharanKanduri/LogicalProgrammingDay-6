@@ -43,9 +43,12 @@ namespace LogicalProgramming
                     MonthlyPayment.ReadInput();
                     break;
                 case 11:
-
+                    
                     break;
                 case 12:
+
+                    break;
+                case 13:
 
                     break;
 

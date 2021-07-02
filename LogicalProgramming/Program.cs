@@ -37,7 +37,7 @@ namespace LogicalProgramming
                     DayOfWeek.ReadInput();
                     break;
                 case 9:
-
+                    TemperaturConversion.ReadInput();
                     break;
                 case 10:
 

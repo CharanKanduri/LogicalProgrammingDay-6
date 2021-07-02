@@ -49,7 +49,7 @@ namespace LogicalProgramming
                     DecimalToBinary.ReadInput();
                     break;
                 case 13:
-
+                    Nibbles.ReadInput();
                     break;
 
                 default:

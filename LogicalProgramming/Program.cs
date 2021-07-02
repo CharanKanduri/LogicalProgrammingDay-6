@@ -28,7 +28,7 @@ namespace LogicalProgramming
 
                     break;
                 case 6:
-
+                    Timer.StopWatch();
                     break;
                 case 7:
 

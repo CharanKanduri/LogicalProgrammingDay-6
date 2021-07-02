@@ -40,7 +40,7 @@ namespace LogicalProgramming
                     TemperaturConversion.ReadInput();
                     break;
                 case 10:
-
+                    MonthlyPayment.ReadInput();
                     break;
                 case 11:
 
